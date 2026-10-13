@@ -111,7 +111,5 @@ Progress is saved to your Drive as it goes, so if Colab disconnects, run the not
 Yes. Running the same experiment with the same settings gives exactly the same numbers. Saved progress is checked for
 damage before it's used. Each result is stored with a fingerprint of the exact code and settings that produced it.
 
-## Author
 
-Vaibhav Sulakhe
 
