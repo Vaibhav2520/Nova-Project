@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Run outputs, checkpoints and logs
+runs/
+*.pt
+*.pth
+*.ckpt
+*.tmp
+
+# Confidential material and local documentation
+*.pdf
+docs/
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
+.claude/
